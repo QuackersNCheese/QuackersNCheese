@@ -1,6 +1,7 @@
-I'm Quackers. I haven't done much... let's change that.
+# Greetings!
+## I'm Quackers!
+I want to learn Web Development!<br>
+I'm currently learning HTML, CSS, and JavaScript.<br>
 
-"It is a riddle, wrapped in a mystery, inside an enigma." <br>
--Winston Churchill
-  
+- [Website](https://quackersncheese.github.io/QuackersNCheese/)  
 - [Email](mailto:Quacktastrophe@protonmail.com)
