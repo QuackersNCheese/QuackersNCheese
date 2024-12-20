@@ -1,5 +1,5 @@
 a {
-    color: yellowgreen;
+    color: rgb(174, 255, 0);
     text-decoration: none;
 }
 
@@ -9,13 +9,18 @@ a:hover {
 
 body {
     background-color: darkgreen;
-    color:goldenrod;
+    color:gold;
     max-width: 600px;
     margin: auto;
 }
 
 h1 {
+    color:goldenrod;
     text-align: center;
+}
+
+h2 {
+    color:#26e2e5;
 }
 
 #profile_pic {
