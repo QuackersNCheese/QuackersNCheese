@@ -1,7 +1,16 @@
+a {
+    color: yellowgreen;
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+}
+
 body {
     background-color: darkgreen;
-    color:orange;
-    max-width: 800px;
+    color:goldenrod;
+    max-width: 600px;
     margin: auto;
 }
 
@@ -14,6 +23,6 @@ h1 {
     width: 200px;
     height: 200px;
     float: right;
-    margin:20px;
+    margin:20px 0px 20px 20px;
     border: 3px solid yellowgreen;
 }
