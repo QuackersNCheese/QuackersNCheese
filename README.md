@@ -1,9 +1,9 @@
-[![Masterhead](./images/QuackersNCheeseBanner.png)]()
+[![Masterhead](./images/QuackersNCheeseBanner.jpg)]()
 # Greetings, I'm Quackers! 
 I want to learn Web Development!<br>
 - 🔭 I'm currently learning HTML, CSS, and JavaScript with: <br>
 [![Codecademy Profile](https://img.shields.io/badge/Codecademy-Profile-blue)](https://www.codecademy.com/profiles/Quackers_n_Cheese)
-[![Codecademy Profile](https://img.shields.io/badge/W3schools-Profile-darkgreen)](https://www.w3profile.com/QuackersNCheese)
+[![W3Schools Profile](https://img.shields.io/badge/W3schools-Profile-darkgreen)](https://www.w3profile.com/QuackersNCheese)
 [<img src="https://www.codewars.com/users/QuackersNCheese/badges/micro">](https://www.codewars.com/users/QuackersNCheese)
 - 📫 How to reach me [quackersncheese1024@gmail.com](mailto:quackersncheese1024@gmail.com)
 - 🌐 I share my learning journey on my [Website](https://quackersncheese.github.io/QuackersNCheese/)<br><br>
