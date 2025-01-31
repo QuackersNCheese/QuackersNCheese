@@ -1,6 +1,5 @@
-
-# Greetings!
-## I'm Quackers 
+[![Masterhead](./images/QuackersNCheeseBanner.png)]()
+# Greetings, I'm Quackers! 
 I want to learn Web Development!<br>
 - 🔭 I'm currently learning HTML, CSS, and JavaScript with: <br>
 [![Codecademy Profile](https://img.shields.io/badge/Codecademy-Profile-blue)](https://www.codecademy.com/profiles/Quackers_n_Cheese)
@@ -9,5 +8,5 @@ I want to learn Web Development!<br>
 - 📫 How to reach me [quackersncheese1024@gmail.com](mailto:quackersncheese1024@gmail.com)
 - 🌐 I share my learning journey on my [Website](https://quackersncheese.github.io/QuackersNCheese/)<br><br>
 I hang out on Discord a lot<br>
-<img src="https://discord.c99.nl/widget/theme-3/1315926330205929508.png"  alt="Quackers_n_cheese on Discord" />  <br><br>
+<img src="https://discord.c99.nl/widget/theme-3/1315926330205929508.png"  alt="Quackers_n_cheese on Discord" />  <br>
 <img src="https://komarev.com/ghpvc/?username=quackersncheese&label=Profile%20views&color=0e75b6&style=flat" alt="quackersncheese" />
