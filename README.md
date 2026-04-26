@@ -1,10 +1,11 @@
 [![Masterhead](./images/QuackersNCheeseBanner.jpg)]()
 # Greetings, I'm Quackers! 
 I want to learn Web Development!<br>
-- 🔭 I'm currently learning HTML, CSS, and JavaScript with: <br>
+- 🔭 I'm currently learning HTML, CSS, JavaScript, and Python with: <br>
 [![Codecademy Profile](https://www.vectorlogo.zone/logos/codecademy/codecademy-ar21.svg)](https://www.codecademy.com/profiles/Quackers_n_Cheese)
 [![W3Schools Profile](https://www.vectorlogo.zone/logos/w3schools/w3schools-ar21.svg)](https://www.w3profile.com/QuackersNCheese)<br>
 [<img src="https://www.codewars.com/users/QuackersNCheese/badges/small">](https://www.codewars.com/users/QuackersNCheese)
+<img src="https://api.boot.dev/v1/users/public/81dfad23-ea40-467c-9391-0685a56ccdb9/thumbnail">
 - 📫 How to reach me [quackersncheese1024@gmail.com](mailto:quackersncheese1024@gmail.com)
 - 🌐 I share my learning journey on my [Website](https://quackersncheese.github.io/QuackersNCheese/)<br><br>
 
